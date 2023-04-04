@@ -1,0 +1,9 @@
+# PongAI
+Genetic Algorithm
+
+IF YOU HAVE ANY ADVICE ON HOW TO MAKE THIS README UP TO STANDARDS PLEASE LET ME KNOW
+
+Description
+PongAI is a project
+Yes
+
