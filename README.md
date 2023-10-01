@@ -11,4 +11,4 @@ PongAI is a Java implementation of a genetic algorithm that can play a custom-ma
 All 250 matches are played simutaneously for efficient training, first to 3 points.
 New agents are generated through crossovers and mutations.
 
-I have provided several graphs if you would like to see the training history and how they have evolved over time.
+I have provided a graph if you would like to see the training history and how they have evolved over time.
